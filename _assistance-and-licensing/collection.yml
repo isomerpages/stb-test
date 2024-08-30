@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  assistance-and-licensing:
     output: true
     order:
       - Grants Overview.md
