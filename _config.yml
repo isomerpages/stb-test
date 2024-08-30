@@ -3,7 +3,7 @@ url: https://www.stb.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#11817a"
-  secondary-color: "#4372d6"
+  secondary-color: "#14729d"
   media-colors:
     - title: media-color-one
       color: "#49759a"
