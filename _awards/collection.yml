@@ -1,5 +1,5 @@
 collections:
-  assistance-and-licensing:
+  awards:
     output: true
     order:
       - Grants Overview.md
