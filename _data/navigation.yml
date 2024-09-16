@@ -1,11 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Awards
-    collection: assistance-and-licensing
-  - title: Recipients
-    collection: assistance-and-licensing
-  - title: Gallery
-    collection: assistance-and-licensing
+    collection: awards
+  - title: Awards
+    collection: awards
+  - title: Awards
+    collection: awards
   - title: Contact Us
     url: /contact-us/
   - title: News
