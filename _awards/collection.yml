@@ -2,6 +2,7 @@ collections:
   awards:
     output: true
     order:
+      - About STA.md
       - Grants Overview.md
       - folder-page.md
       - example-subfolder/.keep
