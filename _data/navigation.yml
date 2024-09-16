@@ -1,8 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Awards
+    collection: assistance-and-licensing
+  - title: Recipients
+    collection: assistance-and-licensing
+  - title: Gallery
+    collection: assistance-and-licensing
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Assistance And Licensing
-    collection: assistance-and-licensing
+  - title: News
+    url: /News
