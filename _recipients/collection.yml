@@ -1,0 +1,4 @@
+collections:
+  recipients:
+    output: true
+    order: []
