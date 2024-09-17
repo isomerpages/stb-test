@@ -2,5 +2,6 @@ collections:
   gallery:
     output: true
     order:
+      - PHOTO GALLERY.md
       - terms-of-use.md
       - privacy.md
