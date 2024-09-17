@@ -1,4 +1,5 @@
 collections:
   recipients:
     output: true
-    order: []
+    order:
+      - 2024 Award Winners.md
