@@ -7,25 +7,13 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
+      background: /images/STA_homepage.jpg
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: 2024 Winners
+          description: List of 2024 Winners
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: History
+          description: List of Past Winners
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
