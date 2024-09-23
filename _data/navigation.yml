@@ -4,6 +4,8 @@ links:
     collection: awards
   - title: Recipient
     collection: recipients
+  - title: 2024 Awards
+    resource_room: true
   - title: Gallery
     collection: awards
   - title: Nomination
