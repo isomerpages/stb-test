@@ -2,9 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Awards
     collection: awards
-  - title: Recipient
-    collection: recipients
-  - title: 2024 Awards
+  - title: Recipients
     resource_room: true
   - title: Gallery
     collection: awards
