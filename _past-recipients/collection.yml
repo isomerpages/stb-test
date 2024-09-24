@@ -1,4 +1,5 @@
 collections:
   past-recipients:
     output: true
-    order: []
+    order:
+      - 2023 Recipients.md
