@@ -3,7 +3,5 @@ collections:
     output: true
     order:
       - Photo.md
-      - 2024/PHOTO GALLERY.md
-      - 2024/.keep
       - terms-of-use.md
       - privacy.md
