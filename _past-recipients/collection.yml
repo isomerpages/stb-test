@@ -2,4 +2,5 @@ collections:
   past-recipients:
     output: true
     order:
+      - 2024 Recipients.md
       - 2023 Recipients.md
