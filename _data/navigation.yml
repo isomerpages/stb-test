@@ -5,7 +5,7 @@ links:
   - title: Recipients
     resource_room: true
   - title: Gallery
-    collection: awards
+    collection: gallery
   - title: Nomination
     collection: nomination
   - title: Contact Us
