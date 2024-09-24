@@ -14,10 +14,3 @@ description: ""
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1pOCwL_2v6UJC4RWMn_mAvmw8Oulzh6KkWvllXX84dYQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<p>Flickr</p>
-<p>&lt;a data-flickr-embed="true" href="<a href="https://www.flickr.com/photos/132338243@N02/16810784067/" rel="noopener noreferrer nofollow" target="_blank">https://www.flickr.com/photos/132338243@N02/16810784067/</a>"
-title="STB-Singapore"&gt;&lt;img src="<a href="https://www.flickr.com/photos/132338243@N02/16810784067/" rel="noopener noreferrer nofollow" target="_blank">https://live.staticflickr.com/7609/16810784067_ae49dd61ae_m.jpg</a>"
-width="240" height="132" alt="STB-Singapore"/&gt;&lt;/a&gt;&lt;script async
-src="<a href="https://embedr.flickr.com/assets/client-code.js" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank">//</a><a href="https://www.flickr.com/photos/132338243@N02/16810784067/" rel="noopener noreferrer nofollow" target="_blank">embedr.flickr.com/assets/client-code.js</a>"
-charset="utf-8"&gt;&lt;/script&gt;</p>
-<p></p>
