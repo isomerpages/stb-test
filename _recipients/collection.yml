@@ -1,5 +1,0 @@
-collections:
-  recipients:
-    output: true
-    order:
-      - 2024 Award Winners.md
