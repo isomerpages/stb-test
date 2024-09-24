@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Photo.md
-      - terms-of-use.md
       - privacy.md
