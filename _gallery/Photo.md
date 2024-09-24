@@ -11,6 +11,6 @@ description: ""
 <p></p>
 <p>Google Slides</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1pOCwL_2v6UJC4RWMn_mAvmw8Oulzh6KkWvllXX84dYQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="839" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1pOCwL_2v6UJC4RWMn_mAvmw8Oulzh6KkWvllXX84dYQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
