@@ -2,13 +2,13 @@ logo: /images/isomer-logo.svg
 links:
   - title: Awards
     collection: awards
+  - title: Assistance & Licensing
+    collection: gallery
   - title: Recipients
     resource_room: true
   - title: Gallery
     collection: gallery
   - title: Nomination
     collection: nomination
-  - title: Contact Us
-    url: /contact-us/
   - title: News
     url: /News
