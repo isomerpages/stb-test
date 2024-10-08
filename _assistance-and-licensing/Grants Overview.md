@@ -65,7 +65,7 @@ existing quality tourism software and enhancing the vibrancy of Singapore....</d
 </div>
 <hr>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Cruise Development Fund (CDF)</div><div class="isomer-card-description">The Cruise Development Fund (CDF) supports the deployment of cruise ships in Singapore and/or development of initiatives that will grow the cruise industry in Singapore. </div><div class="isomer-card-link">View page</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Cruise Development Fund (CDF)</div><div class="isomer-card-description">The Cruise Development Fund (CDF) supports the deployment of cruise ships in Singapore and/or development of initiatives that will grow the cruise industry in Singapore.</div><div class="isomer-card-link">View page</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Experience Step-Up Fund (ESF)</div>
@@ -74,6 +74,6 @@ of Singapore's tourism experiences that increase the attractiveness of
 Singapore to visitors.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="view page" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Tourism Product Development Fund (TPDF)</div><div class="isomer-card-description">The Tourism Product Development Fund (TPDF) supports the creation, and/or major rejuvenation of tourism products (such as standalone infrastructure development or major attraction to enhance Singapore's attractiveness as a tourist destination. </div><div class="isomer-card-link">view page</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="view page" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Tourism Product Development Fund (TPDF)</div><div class="isomer-card-description">The Tourism Product Development Fund (TPDF) supports the creation, and/or major rejuvenation of tourism products (such as standalone infrastructure development or major attraction to enhance Singapore's attractiveness as a tourist destination.</div><div class="isomer-card-link">view page</div></div></a>
 </div>
 <p></p>
