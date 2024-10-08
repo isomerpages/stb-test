@@ -39,6 +39,7 @@ has met the eligibility conditions, please utilise the Grant Checker below:</p>
 </p>
 <p></p>
 <hr>
+<h4><strong>TOURISM CAPABILITY DEVELOPMENT SCHEME</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging.d1r4zppwcz9hqh.amplifyapp.com/the-business-improvement-fund-bif/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Business Improvement Fund (BIF)</div><div class="isomer-card-description">The Business Improvement Fund (BIF) aims to encourage technology innovation and adoption, redesign of business model and processes in the tourism sector to improve productivity and competitiveness. STB has expanded BIF to include sustainability initiatives in support of our tourism companies....</div><div class="isomer-card-link">View Page</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Link 2" class="isomer-card">
 <div class="isomer-card-body">
@@ -51,7 +52,9 @@ business collaborations, intelligence &amp; research</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="Link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Training Industry Professionals in Tourism (TIP-iT)</div><div class="isomer-card-description">The Training Industry Professionals in Tourism (TIP-iT) supports tourism companies in employee upgrading and leadership development.</div><div class="isomer-card-link">View Page</div></div></a>
 </div>
+<p></p>
 <hr>
+<h4><strong>TOURISM EVENT DEVELOPMENT SCHEME</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="URL" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Business Events in Singapore (BEiS)</div><div class="isomer-card-description">The Business Events in Singapore scheme seeks to encourage the business events industry to anchor and grow quality events in Singapore as well as catalyse the innovation of new content. It also supports activities that will bring the foundation towards bringing quality business....</div><div class="isomer-card-link">View Page</div></div></a>
 <a rel="noopener noreferrer nofollow" href="link" class="isomer-card">
 <div class="isomer-card-body">
@@ -65,7 +68,7 @@ existing quality tourism software and enhancing the vibrancy of Singapore....</d
 </a><a rel="noopener noreferrer nofollow" href="link url" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Leisure Events Fund (LEF)</div><div class="isomer-card-description">The Leisure Events Fund (LEF) supports the launch and development of world-class, differentiated, and celebrated leisure event experiences in Singapore that deliver key tourism outcomes and establish Singapore as one of the world's most vibrant cities.</div><div class="isomer-card-link">View Page</div></div></a>
 </div>
 <hr>
-<p></p>
+<h4><strong>TOURISM PRODUCT DEVELOPMENT SCHEME</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Cruise Development Fund (CDF)</div><div class="isomer-card-description">The Cruise Development Fund (CDF) supports the deployment of cruise ships in Singapore and/or development of initiatives that will grow the cruise industry in Singapore.</div><div class="isomer-card-link">View page</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
