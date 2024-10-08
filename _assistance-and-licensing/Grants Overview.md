@@ -38,7 +38,7 @@ has met the eligibility conditions, please utilise the Grant Checker below:</p>
 <p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a>
 </p>
 <hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Business Improvement Fund (BIF)</div><div class="isomer-card-description">The Business Improvement Fund (BIF) aims to encourage technology innovation and adoption, redesign of business model and processes in the tourism sector to improve productivity and competitiveness. STB has expanded BIF to include sustainability initiatives in support of our tourism companies....</div><div class="isomer-card-link">View Page</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging.d1r4zppwcz9hqh.amplifyapp.com/the-business-improvement-fund-bif/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Business Improvement Fund (BIF)</div><div class="isomer-card-description">The Business Improvement Fund (BIF) aims to encourage technology innovation and adoption, redesign of business model and processes in the tourism sector to improve productivity and competitiveness. STB has expanded BIF to include sustainability initiatives in support of our tourism companies....</div><div class="isomer-card-link">View Page</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Link 2" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Local Enterprise and Association Development Programme (LEAD)</div>
