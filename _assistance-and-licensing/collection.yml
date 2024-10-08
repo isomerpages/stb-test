@@ -2,4 +2,5 @@ collections:
   assistance-and-licensing:
     output: true
     order:
+      - The Business Improvement Fund (BIF).md
       - Grants Overview.md
