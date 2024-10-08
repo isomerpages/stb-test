@@ -33,10 +33,11 @@ has met the eligibility conditions, please utilise the Grant Checker below:</p>
 <p></p>
 <p>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/66ea33e3dc17050ca0e94ae5" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="iframe-wrapper">
-<iframe style="width: 100%; height: 500px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/66ea33e3dc17050ca0e94ae5"></iframe>
+<iframe style="width: 100%; height: 1100px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/66ea33e3dc17050ca0e94ae5"></iframe>
 </div>
 <p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a>
 </p>
+<p></p>
 <hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging.d1r4zppwcz9hqh.amplifyapp.com/the-business-improvement-fund-bif/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Business Improvement Fund (BIF)</div><div class="isomer-card-description">The Business Improvement Fund (BIF) aims to encourage technology innovation and adoption, redesign of business model and processes in the tourism sector to improve productivity and competitiveness. STB has expanded BIF to include sustainability initiatives in support of our tourism companies....</div><div class="isomer-card-link">View Page</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Link 2" class="isomer-card">
