@@ -37,8 +37,7 @@ has met the eligibility conditions, please utilise the Grant Checker below:</p>
 </div>
 <p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a>
 </p>
-<p></p>
-<p></p>
+<hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Business Improvement Fund (BIF)</div><div class="isomer-card-description">The Business Improvement Fund (BIF) aims to encourage technology innovation and adoption, redesign of business model and processes in the tourism sector to improve productivity and competitiveness. STB has expanded BIF to include sustainability initiatives in support of our tourism companies....</div><div class="isomer-card-link">View Page</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Link 2" class="isomer-card">
 <div class="isomer-card-body">
@@ -50,5 +49,31 @@ business collaborations, intelligence &amp; research</div>
 <div class="isomer-card-link">View Page</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="Link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Training Industry Professionals in Tourism (TIP-iT)</div><div class="isomer-card-description">The Training Industry Professionals in Tourism (TIP-iT) supports tourism companies in employee upgrading and leadership development.</div><div class="isomer-card-link">View Page</div></div></a>
+</div>
+<hr>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="URL" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Business Events in Singapore (BEiS)</div><div class="isomer-card-description">The Business Events in Singapore scheme seeks to encourage the business events industry to anchor and grow quality events in Singapore as well as catalyse the innovation of new content. It also supports activities that will bring the foundation towards bringing quality business....</div><div class="isomer-card-link">View Page</div></div></a>
+<a rel="noopener noreferrer nofollow" href="link" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Kickstart Fund (KF)</div>
+<div class="isomer-card-description">The Kickstart Fund supports the creation and test-bedding of innovative
+consumer-focused or business-focused events/concepts and events with strong
+tourism potential and scalability. This is with the aim of adding to the
+existing quality tourism software and enhancing the vibrancy of Singapore....</div>
+<div class="isomer-card-link">Link Here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="link url" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Leisure Events Fund (LEF)</div><div class="isomer-card-description">The Leisure Events Fund (LEF) supports the launch and development of world-class, differentiated, and celebrated leisure event experiences in Singapore that deliver key tourism outcomes and establish Singapore as one of the world's most vibrant cities.</div><div class="isomer-card-link">View Page</div></div></a>
+</div>
+<hr>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Cruise Development Fund (CDF)</div><div class="isomer-card-description">The Cruise Development Fund (CDF) supports the deployment of cruise ships in Singapore and/or development of initiatives that will grow the cruise industry in Singapore. </div><div class="isomer-card-link">View page</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Experience Step-Up Fund (ESF)</div>
+<div class="isomer-card-description">The Experience Step-Up Fund (ESF) supports the development and enhancement
+of Singapore's tourism experiences that increase the attractiveness of
+Singapore to visitors.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="view page" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Tourism Product Development Fund (TPDF)</div><div class="isomer-card-description">The Tourism Product Development Fund (TPDF) supports the creation, and/or major rejuvenation of tourism products (such as standalone infrastructure development or major attraction to enhance Singapore's attractiveness as a tourist destination. </div><div class="isomer-card-link">view page</div></div></a>
 </div>
 <p></p>
