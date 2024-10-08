@@ -29,7 +29,7 @@ tourism sector in driving tourism recovery and transformation efforts.</p>
 <p><strong>WHICH FUND IS APPLICABLE FOR YOUR PROJECT?</strong>
 </p>
 <p>To identify the right fund for your project, or check if your project
-has met the eligibility conditions, please utilise the Grant Checker Tool</p>
+has met the eligibility conditions, please utilise the Grant Checker below:</p>
 <p></p>
 <p>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/66ea33e3dc17050ca0e94ae5" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="iframe-wrapper">
@@ -37,4 +37,18 @@ has met the eligibility conditions, please utilise the Grant Checker Tool</p>
 </div>
 <p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Business Improvement Fund (BIF)</div><div class="isomer-card-description">The Business Improvement Fund (BIF) aims to encourage technology innovation and adoption, redesign of business model and processes in the tourism sector to improve productivity and competitiveness. STB has expanded BIF to include sustainability initiatives in support of our tourism companies....</div><div class="isomer-card-link">View Page</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Link 2" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Local Enterprise and Association Development Programme (LEAD)</div>
+<div class="isomer-card-description">The Local Enterprise and Association Development (LEAD) Programme supports
+efforts by Trade Associations &amp; Chambers (TACs) to drive industry initiatives,
+focusing on areas like productivity, sustainability, technology &amp; infrastructure,
+business collaborations, intelligence &amp; research</div>
+<div class="isomer-card-link">View Page</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="Link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Training Industry Professionals in Tourism (TIP-iT)</div><div class="isomer-card-description">The Training Industry Professionals in Tourism (TIP-iT) supports tourism companies in employee upgrading and leadership development.</div><div class="isomer-card-link">View Page</div></div></a>
+</div>
 <p></p>
