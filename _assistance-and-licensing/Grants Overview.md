@@ -29,13 +29,8 @@ tourism sector in driving tourism recovery and transformation efforts.</p>
 <p><strong>WHICH FUND IS APPLICABLE FOR YOUR PROJECT?</strong>
 </p>
 <p>To identify the right fund for your project, or check if your project
-has met the eligibility conditions, please utilise the Grant Checker below:</p>
-<p></p>
-<p>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/66ea33e3dc17050ca0e94ae5" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<div class="iframe-wrapper">
-<iframe style="width: 100%; height: 1100px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/66ea33e3dc17050ca0e94ae5"></iframe>
-</div>
-<p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a>
+has met the eligibility conditions, please utilise the Grant Checker at
+this link <a href="https://form.gov.sg/66ea33e3dc17050ca0e94ae5" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
 <hr>
