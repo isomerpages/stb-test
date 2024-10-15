@@ -2,4 +2,5 @@ collections:
   gallery:
     output: true
     order:
+      - Feedback.md
       - Photo.md
