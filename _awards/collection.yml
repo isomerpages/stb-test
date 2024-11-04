@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - About STA.md
-      - folder-page.md
+      - Folder Page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
